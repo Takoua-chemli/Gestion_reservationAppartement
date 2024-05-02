@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714667377 source:c:\ingeniérie genie logiciel\semmestre 2\complexité algorithmique\workspace\gestion_reservation\main.c
+	<stdio.h>
+	<stdbool.h>
+
